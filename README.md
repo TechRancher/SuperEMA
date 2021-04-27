@@ -1,6 +1,6 @@
 # Super EMA  
 
-**Discloser** _In order to demonstrate the functionality of my script, I used actual symbol in the chart image. However, I do not make recommendations or determine the suitability of any security or strategy for individual traders. Any investment decision you make in your self-directed account is solely your responsibility._  
+**Disclaimer:** _In order to demonstrate the functionality of my script, I used actual ticker symbols in the chart images. However, I do not make recommendations or determine the suitability of any security or strategy for individual traders. Any investment decision you make in your self-directed account is solely your responsibility. Be sure to backtest any strategy to determine if you understand the risks involved with each strategy._  
 
 I wrote this for the ThinkorSwim:registered: platform. It is to be with your charts.  You can download this script from: [https://tos.mx/Yk58X5x](http://tos.mx/Yk58X5x)  
 
